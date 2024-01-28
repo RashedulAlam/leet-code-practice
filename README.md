@@ -6,4 +6,4 @@
 
 ## 📫 Leet Code Profile
 
-- LeetCode: [Your LeetCode Profile](https://leetcode.com/alam_r/)
+- LeetCode: [Rashedul Alam](https://leetcode.com/alam_r/)
